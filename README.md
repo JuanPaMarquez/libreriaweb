@@ -1,1 +1,6 @@
 ![gato](https://github.com/JuanPaMarquez/libreriaweb/assets/143953366/0244c40b-1ae2-4d8b-9da0-8930b8486b6e)
+![pingu](https://github.com/JuanPaMarquez/libreriaweb/assets/143953366/ae43c99b-5be3-4fb3-b4c7-c89e8ef4ee70)
+![formu](https://github.com/JuanPaMarquez/libreriaweb/assets/143953366/e787e3e7-5504-4778-94ea-7ce393369b3a)
+![martin](https://github.com/JuanPaMarquez/libreriaweb/assets/143953366/71a1af15-eede-4c01-a17e-c9357059dfbc)
+![docu](https://github.com/JuanPaMarquez/libreriaweb/assets/143953366/7de10961-6a36-4397-b126-847fabbac8f8)
+![learn](https://github.com/JuanPaMarquez/libreriaweb/assets/143953366/e12258aa-3d96-486e-bb76-54b20237581f)
